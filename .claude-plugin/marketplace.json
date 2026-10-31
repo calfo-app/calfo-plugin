@@ -1,0 +1,17 @@
+{
+  "name": "calfo",
+  "owner": {
+    "name": "Acosta Tech LLC",
+    "email": "support@calfo.app"
+  },
+  "metadata": {
+    "description": "The official Calfo plugin for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "calfo",
+      "source": "./",
+      "description": "Calfo's pantry, recipes, meal plan and nutrition goals in Claude."
+    }
+  ]
+}

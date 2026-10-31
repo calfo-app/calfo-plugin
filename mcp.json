@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "calfo": {
+      "url": "https://mcp.calfo.app/api/mcp"
+    }
+  }
+}

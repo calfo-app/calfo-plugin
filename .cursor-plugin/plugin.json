@@ -1,0 +1,14 @@
+{
+  "name": "calfo",
+  "version": "1.0.0",
+  "description": "Calfo's pantry, recipes, meal plan and nutrition goals. Connects to Calfo's hosted MCP server and adds skills for getting started and planning meals around food that is about to expire.",
+  "author": {
+    "name": "Acosta Tech LLC",
+    "email": "support@calfo.app"
+  },
+  "homepage": "https://www.calfo.app/mcp",
+  "repository": "https://github.com/calfo-app/calfo-plugin",
+  "license": "MIT",
+  "keywords": ["calfo", "pantry", "recipes", "meal-planning", "food-waste", "nutrition", "mcp"],
+  "logo": "assets/logo.png"
+}
