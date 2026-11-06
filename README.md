@@ -1,5 +1,7 @@
 # Calfo for Claude, Cursor and Grok Bot
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/calfo-app-calfo-plugin-1hhmkn?v=02a4e1cc9fa8dc296be6ec324680a224)](https://m8ven.ai/mcp/calfo-app-calfo-plugin-1hhmkn?s=readme)
+
 The official plugin for [Calfo](https://www.calfo.app), the kitchen app that tracks what is in your pantry, what is about to expire, what you plan to cook this week and what you are trying to eat. With this plugin, your assistant can read and update your Calfo pantry, search Calfo recipes, plan meals and check your nutrition goals while you chat.
 
 Calfo is made by Acosta Tech LLC.
